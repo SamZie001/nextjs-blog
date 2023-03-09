@@ -4,7 +4,7 @@ import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Average Yetti";
+const name = "Samuel Izevbizua";
 export const siteTitle = "My first Next.js Website";
 
 export default function Layout({ children, home }) {
